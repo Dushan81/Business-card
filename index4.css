@@ -1,0 +1,35 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+.description {
+    padding-top: 15px;
+    padding-left: 30px;
+    
+}
+
+.italic {
+    font-style: italic;
+
+}
+
